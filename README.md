@@ -1,4 +1,4 @@
-# rfm_customer
+# Customer Segmentation for Online Retail
 
 For the past 10 years, we have witnessed a steady and strong increase of online retail sales. According to the Interactive Media in Retail Group (IMRG),
 online shoppers in the United Kingdom spent an estimated £50 billion in year 2011,
